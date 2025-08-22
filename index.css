@@ -103,3 +103,11 @@ body{
         width: 60%;
     }
 }
+
+footer {
+    color: #d97706;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 0.5rem;
+    border-top: 5px solid var(--secondary-color);
+}
